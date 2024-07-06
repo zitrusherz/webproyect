@@ -1,0 +1,1197 @@
+[
+    {
+        "name": "Command & Conquer: Red Alert",
+        "category": "Strategy",
+        "price": 31.31,
+        "id": "Com31y"
+    },
+    {
+        "name": "Final Fantasy VII",
+        "category": "RPG",
+        "price": 56,
+        "id": "Fin56G"
+    },
+    {
+        "name": "GoldenEye 007",
+        "category": "Action",
+        "price": 29.29,
+        "id": "Gol29r"
+    },
+    {
+        "name": "Pokemon Red/Blue",
+        "category": "RPG",
+        "price": 38.38,
+        "id": "Pok38G"
+    },
+    {
+        "name": "Half-Life",
+        "category": "Action",
+        "price": 68,
+        "id": "Hal68r"
+    },
+    {
+        "name": "Super Mario 64",
+        "category": "Platformer",
+        "price": 20,
+        "id": "Sup20r"
+    },
+    {
+        "name": "Banjo-Kazooie",
+        "category": "Platformer",
+        "price": 41.41,
+        "id": "Ban41e"
+    },
+    {
+        "name": "Diablo",
+        "category": "RPG",
+        "price": 16,
+        "id": "Dia16G"
+    },
+    {
+        "name": "Metal Gear Solid",
+        "category": "Stealth",
+        "price": 42,
+        "id": "Met42h"
+    },
+    {
+        "name": "Chrono Trigger",
+        "category": "RPG",
+        "price": 46,
+        "id": "Chr46G"
+    },
+    {
+        "name": "Tekken 3",
+        "category": "Fighting",
+        "price": 50.05,
+        "id": "Tek50g"
+    },
+    {
+        "name": "The Legend of Zelda: Ocarina of Time",
+        "category": "Action",
+        "price": 30,
+        "id": "The30e"
+    },
+    {
+        "name": "Resident Evil 2",
+        "category": "Survival Horror",
+        "price": 19,
+        "id": "Res19r"
+    },
+    {
+        "name": "StarCraft",
+        "category": "Strategy",
+        "price": 23,
+        "id": "Sta23y"
+    },
+    {
+        "name": "Age of Empires II",
+        "category": "Strategy",
+        "price": 12,
+        "id": "Age12y"
+    },
+    {
+        "name": "Grand Theft Auto III",
+        "category": "Action",
+        "price": 45.45,
+        "id": "Gra45e"
+    },
+    {
+        "name": "Halo: Combat Evolved",
+        "category": "Action",
+        "price": 25,
+        "id": "Hal25r"
+    },
+    {
+        "name": "Final Fantasy X",
+        "category": "RPG",
+        "price": 50,
+        "id": "Fin50G"
+    },
+    {
+        "name": "Super Smash Bros. Melee",
+        "category": "Fighting",
+        "price": 35.35,
+        "id": "Sup35g"
+    },
+    {
+        "name": "The Elder Scrolls III: Morrowind",
+        "category": "RPG",
+        "price": 30,
+        "id": "The30G"
+    },
+    {
+        "name": "Metal Gear Solid 2: Sons of Liberty",
+        "category": "Stealth",
+        "price": 42.42,
+        "id": "Met42y"
+    },
+    {
+        "name": "Animal Crossing",
+        "category": "Life Simulation",
+        "price": 18,
+        "id": "Ani18n"
+    },
+    {
+        "name": "Burnout 3: Takedown",
+        "category": "Racing",
+        "price": 28,
+        "id": "Bur28g"
+    },
+    {
+        "name": "Prince of Persia: The Sands of Time",
+        "category": "Action",
+        "price": 20,
+        "id": "Pri20e"
+    },
+    {
+        "name": "Splinter Cell",
+        "category": "Stealth",
+        "price": 37.37,
+        "id": "Spl37h"
+    },
+    {
+        "name": "Need for Speed: Underground",
+        "category": "Racing",
+        "price": 29,
+        "id": "Nee29g"
+    },
+    {
+        "name": "Star Wars: Knights of the Old Republic",
+        "category": "RPG",
+        "price": 55,
+        "id": "Sta55G"
+    },
+    {
+        "name": "GTA: Vice City",
+        "category": "Action",
+        "price": 45,
+        "id": "GTA45e"
+    },
+    {
+        "name": "Fable",
+        "category": "RPG",
+        "price": 21,
+        "id": "Fab21G"
+    },
+    {
+        "name": "Tony Hawk's Pro Skater 3",
+        "category": "Sports",
+        "price": 17,
+        "id": "Ton17s"
+    },
+    {
+        "name": "The Elder Scrolls IV: Oblivion",
+        "category": "RPG",
+        "price": 39.39,
+        "id": "The393G"
+    },
+    {
+    "name": "Gears of War",
+    "category": "Third-Person ",
+    "price": 45,
+    "id": "Gea45r"
+    },
+    {
+    "name": "BioShock",
+    "category": "Action",
+    "price": 30,
+    "id": "Bio30r"
+    },
+    {
+    "name": "Portal",
+    "category": "Puzzle Platformer",
+    "price": 15,
+    "id": "Por15r"
+    },
+    {
+    "name": "Assassin's Creed",
+    "category": "Action",
+    "price": 29,
+    "id": "Ass29e"
+    },
+    {
+    "name": "Call of Duty 4: Modern Warfare",
+    "category": "Action",
+    "price": 55.55,
+    "id": "Cal555r"
+    },
+    {
+    "name": "Mass Effect",
+    "category": "RPG",
+    "price": 33,
+    "id": "Mas33G"
+    },
+    {
+    "name": "Rock Band",
+    "category": "Rhythm",
+    "price": 20,
+    "id": "Roc20m"
+    },
+    {
+    "name": "Super Mario Galaxy",
+    "category": "Platformer",
+    "price": 40,
+    "id": "Sup40r"
+    },
+    {
+    "name": "The Legend of Zelda: Twilight Princess",
+    "category": "Action",
+    "price": 38.38,
+    "id": "The383e"
+    },
+    {
+    "name": "Halo 3",
+    "category": "Action",
+    "price": 35,
+    "id": "Hal35r"
+    },
+    {
+    "name": "Bioshock 2",
+    "category": "Action",
+    "price": 30,
+    "id": "Bi230r"
+    },
+    {
+    "name": "God of War II",
+    "category": "Action",
+    "price": 25,
+    "id": "God25e"
+    },
+    {
+    "name": "Mario Kart Wii",
+    "category": "Racing",
+    "price": 28,
+    "id": "Mar28g"
+    },
+    {
+    "name": "The Witcher",
+    "category": "RPG",
+    "price": 37,
+    "id": "The37G"
+    },
+    {
+        "name": "Portal",
+        "category": "Puzzle Platformer",
+        "price": 20,
+        "id": "Por20r"
+    },
+    {
+        "name": "BioShock 3",
+        "category": "Action",
+        "price": 30,
+        "id": "Bi330r"
+    },
+    {
+        "name": "Assassin's Creed",
+        "category": "Action",
+        "price": 29,
+        "id": "Ass29e"
+    },
+    {
+        "name": "Call of Duty 4: Modern Warfare",
+        "category": "Action",
+        "price": 55.55,
+        "id": "Cal55r"
+    },
+    {
+        "name": "Mass Effect",
+        "category": "RPG",
+        "price": 33,
+        "id": "Mas33G"
+    },
+    {
+        "name": "Rock Band",
+        "category": "Rhythm",
+        "price": 20,
+        "id": "Roc20m"
+    },
+    {
+        "name": "Super Mario Galaxy",
+        "category": "Platformer",
+        "price": 40,
+        "id": "Sup40r"
+    },
+    {
+        "name": "The Legend of Zelda: Twilight Princess",
+        "category": "Action",
+        "price": 38.38,
+        "id": "The38e"
+    },
+    {
+        "name": "Halo 3",
+        "category": "Action",
+        "price": 35,
+        "id": "Hal35r"
+    },
+    {
+        "name": "Mario Kart Wii",
+        "category": "Racing",
+        "price": 28,
+        "id": "Mar28g"
+    },
+    {
+        "name": "The Witcher",
+        "category": "RPG",
+        "price": 37,
+        "id": "The37G"
+    },
+    {
+        "name": "Bioshock",
+        "category": "Action",
+        "price": 30,
+        "id": "Bio30k"
+    },
+    {
+        "name": "God of War II",
+        "category": "Action",
+        "price": 25,
+        "id": "God25e"
+    },
+    {
+        "name": "Mario Kart Wii",
+        "category": "Racing",
+        "price": 28,
+        "id": "Mar28g"
+    },
+    {
+        "name": "Red Dead Redemption",
+        "category": "Action",
+        "price": 25,
+        "id": "Red25e"
+    },
+    {
+        "name": "Mass Effect 2",
+        "category": "RPG",
+        "price": 35,
+        "id": "Mas35G"
+    },
+    {
+        "name": "Portal 2",
+        "category": "Puzzle Platformer",
+        "price": 30,
+        "id": "Por30r"
+    },
+    {
+        "name": "The Elder Scrolls V: Skyrim",
+        "category": "RPG",
+        "price": 40,
+        "id": "The40G"
+    },
+    {
+        "name": "Batman: Arkham City",
+        "category": "Action",
+        "price": 32,
+        "id": "Bat32e"
+    },
+    {
+        "name": "Dark Souls",
+        "category": "RPG",
+        "price": 29.29,
+        "id": "Dar29s"
+    },
+    {
+        "name": "Uncharted 3: Drake's Deception",
+        "category": "Action",
+        "price": 35,
+        "id": "Unc35e"
+    },
+    {
+        "name": "The Legend of Zelda: Skyward Sword",
+        "category": "Action",
+        "price": 38.38,
+        "id": "The38d"
+    },
+    {
+        "name": "Mass Effect 3",
+        "category": "RPG",
+        "price": 33,
+        "id": "Mas33G"
+    },
+    {
+        "name": "Borderlands 2",
+        "category": "RPG",
+        "price": 27,
+        "id": "Bor27G"
+    },
+    {
+        "name": "Far Cry 3",
+        "category": "Action",
+        "price": 30,
+        "id": "Far30r"
+    },
+    {
+        "name": "XCOM: Enemy Unknown",
+        "category": "Turn-Based Strategy",
+        "price": 26,
+        "id": "XCO26y"
+    },
+    {
+        "name": "Dishonored",
+        "category": "Stealth",
+        "price": 24,
+        "id": "Dis24h"
+    },
+    {
+        "name": "Journey",
+        "category": "Adventure",
+        "price": 15,
+        "id": "Jou15e"
+    },
+    {
+        "name": "The Walking Dead",
+        "category": "Graphic Adventure",
+        "price": 20,
+        "id": "The20d"
+    },
+    {
+        "name": "The Witcher 3: Wild Hunt",
+        "category": "RPG",
+        "price": 45,
+        "id": "The45G"
+    },
+    {
+        "name": "Metal Gear Solid V: The Phantom Pain",
+        "category": "Stealth",
+        "price": 32,
+        "id": "Met32d"
+    },
+    {
+        "name": "Bloodborne",
+        "category": "RPG",
+        "price": 27,
+        "id": "Blo27e"
+    },
+    {
+        "name": "Fallout 4",
+        "category": "RPG",
+        "price": 35,
+        "id": "Fal35r"
+    },
+    {
+        "name": "Undertale",
+        "category": "Role-Playing",
+        "price": 15,
+        "id": "Und15g"
+    },
+    {
+        "name": "The Legend of Zelda: Breath of the Wild",
+        "category": "Action",
+        "price": 50,
+        "id": "The50e"
+    },
+    {
+        "name": "Overwatch",
+        "category": "Action",
+        "price": 40,
+        "id": "Ove40r"
+    },
+    {
+        "name": "Dark Souls III",
+        "category": "RPG",
+        "price": 29.29,
+        "id": "Dar29s"
+    },
+    {
+        "name": "Persona 5",
+        "category": "RPG",
+        "price": 42,
+        "id": "Per42G"
+    },
+    {
+        "name": "Uncharted 4: A Thief's End",
+        "category": "Action",
+        "price": 38.38,
+        "id": "Unc38d"
+    },
+    {
+        "name": "Rocket League",
+        "category": "Sports",
+        "price": 25,
+        "id": "Roc25e"
+    },
+    {
+        "name": "The Witness",
+        "category": "Puzzle",
+        "price": 20,
+        "id": "The20e"
+    },
+    {
+        "name": "Inside",
+        "category": "Puzzle Platformer",
+        "price": 18,
+        "id": "Ins18r"
+    },
+    {
+        "name": "Stardew Valley",
+        "category": "Simulation",
+        "price": 15,
+        "id": "Sta15n"
+    },
+    {
+        "name": "DOOM",
+        "category": "Action",
+        "price": 30,
+        "id": "DOO30r"
+    },
+    {
+        "name": "The Legend of Zelda: Breath of the Wild",
+        "category": "Action",
+        "price": 50,
+        "id": "The50e"
+    },
+    {
+        "name": "Persona 5",
+        "category": "RPG",
+        "price": 42,
+        "id": "Per42G"
+    },
+    {
+        "name": "Horizon Zero Dawn",
+        "category": "RPG",
+        "price": 45,
+        "id": "Hor45n"
+    },
+    {
+        "name": "NieR: Automata",
+        "category": "RPG",
+        "price": 35,
+        "id": "Nie35r"
+    },
+    {
+        "name": "PlayerUnknown's Battlegrounds",
+        "category": "Battle Royale",
+        "price": 30,
+        "id": "Pla30s"
+    },
+    {
+        "name": "Cuphead",
+        "category": "Run and Gun",
+        "price": 20,
+        "id": "Cup20n"
+    },
+    {
+        "name": "Divinity: Original Sin II",
+        "category": "RPG",
+        "price": 40,
+        "id": "Div40G"
+    },
+    {
+        "name": "Super Mario Odyssey",
+        "category": "Platformer",
+        "price": 55,
+        "id": "Sup55r"
+    },
+    {
+        "name": "Resident Evil 7: Biohazard",
+        "category": "Survival Horror",
+        "price": 33,
+        "id": "Res33r"
+    },
+    {
+        "name": "Wolfenstein II: The New Colossus",
+        "category": "Action",
+        "price": 28,
+        "id": "Wol28s"
+    },
+    {
+        "name": "Nioh",
+        "category": "RPG",
+        "price": 37,
+        "id": "Nio37h"
+    },
+    {
+        "name": "Prey",
+        "category": "Action",
+        "price": 29.29,
+        "id": "Pre29y"
+    },
+    {
+        "name": "Hollow Knight",
+        "category": "Metroidvania",
+        "price": 25,
+        "id": "Hol25n"
+    },
+    {
+        "name": "Yakuza 0",
+        "category": "Action",
+        "price": 18,
+        "id": "Yak18e"
+    },
+    {
+        "name": "Sonic Mania",
+        "category": "Platformer",
+        "price": 22,
+        "id": "Son22r"
+    },
+        {
+            "name": "God of War",
+            "category": "Action",
+            "price": 45,
+            "id": "God45r"
+        },
+        {
+            "name": "Red Dead Redemption 2",
+            "category": "Action",
+            "price": 55,
+            "id": "Red55e"
+        },
+        {
+            "name": "Monster Hunter: World",
+            "category": "RPG",
+            "price": 40,
+            "id": "Mon40d"
+        },
+        {
+            "name": "Marvel's Spider-Man",
+            "category": "Action",
+            "price": 50,
+            "id": "Mar50n"
+        },
+        {
+            "name": "Assassin's Creed Odyssey",
+            "category": "RPG",
+            "price": 42,
+            "id": "Ass42G"
+        },
+        {
+            "name": "Far Cry 5",
+            "category": "Action",
+            "price": 30,
+            "id": "Far30r"
+        },
+        {
+            "name": "Super Smash Bros. Ultimate",
+            "category": "Fighting",
+            "price": 60,
+            "id": "Sup60g"
+        },
+        {
+            "name": "Dragon Quest XI",
+            "category": "RPG",
+            "price": 38,
+            "id": "Dra38G"
+        },
+        {
+            "name": "Forza Horizon 4",
+            "category": "Racing",
+            "price": 35,
+            "id": "For35n"
+        },
+        {
+            "name": "Celeste",
+            "category": "Platformer",
+            "price": 20,
+            "id": "Cel20r"
+        },
+        {
+            "name": "Octopath Traveler",
+            "category": "RPG",
+            "price": 40,
+            "id": "Oct40r"
+        },
+        {
+            "name": "Call of Duty: Black Ops 4",
+            "category": "Action",
+            "price": 55,
+            "id": "Cal55r"
+        },
+        {
+            "name": "Shadow of the Tomb Raider",
+            "category": "Action",
+            "price": 38,
+            "id": "Sha38e"
+        },
+        {
+            "name": "PUBG Mobile",
+            "category": "Battle Royale",
+            "price": 25,
+            "id": "PUB25e"
+        },
+        {
+            "name": "Spyro Reignited Trilogy",
+            "category": "Platformer",
+            "price": 30,
+            "id": "Spy30r"
+        },
+        {
+            "name": "Death Stranding",
+            "category": "Action",
+            "price": 45,
+            "id": "Dea45n"
+        },
+        {
+            "name": "Sekiro: Shadows Die Twice",
+            "category": "Action",
+            "price": 55,
+            "id": "Sek55r"
+        },
+        {
+            "name": "Resident Evil 2",
+            "category": "Survival Horror",
+            "price": 40,
+            "id": "Res40r"
+        },
+        {
+            "name": "Control",
+            "category": "Action",
+            "price": 50,
+            "id": "Con50l"
+        },
+        {
+            "name": "Outer Wilds",
+            "category": "Adventure",
+            "price": 35,
+            "id": "Out35s"
+        },
+        {
+            "name": "Devil May Cry 5",
+            "category": "Action",
+            "price": 42,
+            "id": "Dev42y"
+        },
+        {
+            "name": "Kingdom Hearts III",
+            "category": "RPG",
+            "price": 38,
+            "id": "Kin38g"
+        },
+        {
+            "name": "Star Wars Jedi: Fallen Order",
+            "category": "Action",
+            "price": 60,
+            "id": "Sta60r"
+        },
+        {
+            "name": "The Outer Worlds",
+            "category": "RPG",
+            "price": 40,
+            "id": "The40s"
+        },
+        {
+            "name": "Luigi's Mansion 3",
+            "category": "Action",
+            "price": 45,
+            "id": "Lui45n"
+        },
+        {
+            "name": "Borderlands 3",
+            "category": "RPG",
+            "price": 55,
+            "id": "Bor55d"
+        },
+        {
+            "name": "Call of Duty: Modern Warfare",
+            "category": "Action",
+            "price": 50,
+            "id": "Cal50r"
+        },
+        {
+            "name": "Fire Emblem: Three Houses",
+            "category": "TacticalRPG",
+            "price": 48,
+            "id": "Fir48s"
+        },
+        {
+            "name": "Mortal Kombat 11",
+            "category": "Fighting",
+            "price": 44,
+            "id": "Mor44t"
+        },
+        {
+            "name": "Super Mario Maker 2",
+            "category": "Platformer",
+            "price": 30,
+            "id": "Sup30r"
+        },
+        {
+            "name": "The Last of Us Part II",
+            "category": "Action",
+            "price": 55,
+            "id": "The55t"
+        },
+        {
+            "name": "Cyberpunk 2077",
+            "category": "RPG",
+            "price": 50,
+            "id": "Cyb50k"
+        },
+        {
+            "name": "Animal Crossing: New Horizons",
+            "category": "Life Simulation",
+            "price": 45,
+            "id": "Ani45n"
+        },
+        {
+            "name": "Ghost of Tsushima",
+            "category": "Action",
+            "price": 40,
+            "id": "Gho40t"
+        },
+        {
+            "name": "Doom Eternal",
+            "category": "Action",
+            "price": 35,
+            "id": "Doo35l"
+        },
+        {
+            "name": "Final Fantasy VII Remake",
+            "category": "RPG",
+            "price": 60,
+            "id": "Fin60e"
+        },
+        {
+            "name": "Hades",
+            "category": "RPG",
+            "price": 25,
+            "id": "Had25s"
+        },
+        {
+            "name": "Microsoft Flight Simulator",
+            "category": "Simulation",
+            "price": 55,
+            "id": "Mic55r"
+        },
+        {
+            "name": "Assassin's Creed Valhalla",
+            "category": "RPG",
+            "price": 50,
+            "id": "Ass50n"
+        },
+        {
+            "name": "Half-Life: Alyx",
+            "category": "VR",
+            "price": 45,
+            "id": "Hal45e"
+        },
+        {
+            "name": "Among Us",
+            "category": "Social Deduction",
+            "price": 5,
+            "id": "Amo5g"
+        },
+        {
+            "name": "Crusader Kings III",
+            "category": "Grand Strategy",
+            "price": 40,
+            "id": "Cru40s"
+        },
+        {
+            "name": "Persona 5 Royal",
+            "category": "RPG",
+            "price": 55,
+            "id": "Per55l"
+        },
+        {
+            "name": "Ori and the Will of the Wisps",
+            "category": "Platformer",
+            "price": 30,
+            "id": "Ori30s"
+        },
+        {
+            "name": "Marvel's Avengers",
+            "category": "Action",
+            "price": 50,
+            "id": "Mar50s"
+        },
+        {
+        "name": "Resident Evil Village",
+        "category": "Survival Horror",
+        "price": 45,
+        "id": "Res45e"
+    },
+    {
+        "name": "Ratchet & Clank: Rift Apart",
+        "category": "Platformer",
+        "price": 55,
+        "id": "Rat55t"
+    },
+    {
+        "name": "Hitman 3",
+        "category": "Stealth",
+        "price": 50,
+        "id": "Hit50n"
+    },
+    {
+        "name": "Returnal",
+        "category": "Third-Person ",
+        "price": 60,
+        "id": "Ret60l"
+    },
+    {
+        "name": "Monster Hunter Rise",
+        "category": "RPG",
+        "price": 40,
+        "id": "Mon40r"
+    },
+    {
+        "name": "It Takes Two",
+        "category": "Action",
+        "price": 35,
+        "id": "ItT35o"
+    },
+    {
+        "name": "Deathloop",
+        "category": "Action",
+        "price": 55,
+        "id": "Dea55p"
+    },
+    {
+        "name": "Psychonauts 2",
+        "category": "Platformer",
+        "price": 40,
+        "id": "Psy40t"
+    },
+    {
+        "name": "Marvel's Guardians of the Galaxy",
+        "category": "Action",
+        "price": 50,
+        "id": "Mar50s"
+    },
+    {
+        "name": "Metroid Dread",
+        "category": "Action",
+        "price": 45,
+        "id": "Met45d"
+    },
+    {
+        "name": "F1 2021",
+        "category": "Racing",
+        "price": 60,
+        "id": "F1601"
+    },
+    {
+        "name": "Far Cry 6",
+        "category": "Action",
+        "price": 55,
+        "id": "Far55x"
+    },
+    {
+        "name": "Battlefield 2042",
+        "category": "Action",
+        "price": 60,
+        "id": "Bat60d"
+    },
+    {
+        "name": "Back 4 Blood",
+        "category": "Action",
+        "price": 40,
+        "id": "Bac40d"
+    },
+    {
+        "name": "Death's Door",
+        "category": "Action",
+        "price": 25,
+        "id": "Dea25r"
+    },
+    {
+        "name": "Resident Evil Village",
+        "category": "Survival Horror",
+        "price": 45,
+        "id": "Res45e"
+    },
+    {
+        "name": "Ratchet & Clank: Rift Apart",
+        "category": "Platformer",
+        "price": 55,
+        "id": "Rat55t"
+    },
+    {
+        "name": "Hitman 3",
+        "category": "Stealth",
+        "price": 50,
+        "id": "Hit50n"
+    },
+    {
+        "name": "Returnal",
+        "category": "Third-Person ",
+        "price": 60,
+        "id": "Ret60l"
+    },
+    {
+        "name": "Monster Hunter Rise",
+        "category": "RPG",
+        "price": 40,
+        "id": "Mon40r"
+    },
+    {
+        "name": "It Takes Two",
+        "category": "Action",
+        "price": 35,
+        "id": "ItT35o"
+    },
+    {
+        "name": "Deathloop",
+        "category": "Action",
+        "price": 55,
+        "id": "Dea55p"
+    },
+    {
+        "name": "Psychonauts 2",
+        "category": "Platformer",
+        "price": 40,
+        "id": "Psy40t"
+    },
+    {
+        "name": "Marvel's Guardians of the Galaxy",
+        "category": "Action",
+        "price": 50,
+        "id": "Mar50s"
+    },
+    {
+        "name": "Metroid Dread",
+        "category": "Action",
+        "price": 45,
+        "id": "Met45d"
+    },
+    {
+        "name": "F1 2021",
+        "category": "Racing",
+        "price": 60,
+        "id": "F1601"
+    },
+    {
+        "name": "Far Cry 6",
+        "category": "Action",
+        "price": 55,
+        "id": "Far55x"
+    },
+    {
+        "name": "Battlefield 2042",
+        "category": "Action",
+        "price": 60,
+        "id": "Bat60d"
+    },
+    {
+        "name": "Back 4 Blood",
+        "category": "Action",
+        "price": 40,
+        "id": "Bac40d"
+    },
+    {
+        "name": "Death's Door",
+        "category": "Action",
+        "price": 25,
+        "id": "Dea25r"
+    },
+    {
+        "name": "Melty Blood",
+        "category": "Aventura",
+        "price": 55.55,
+        "id": "Mel55d"
+    },
+    {
+        "name": "Bayoneta",
+        "category": "Aventura",
+        "price": 45.45,
+        "id": "Bay45a"
+    },
+    {
+        "name": "Rainbows Siege",
+        "category": "Online",
+        "price": 35.35,
+        "id": "Rai35e"
+    },
+    {
+        "name": "Hotline Miami",
+        "category": "Action",
+        "price": 25.25,
+        "id": "Hot25r"
+    },
+    {
+        "name": "Nier: Automata",
+        "category": "RPG",
+        "price": 65.65,
+        "id": "Nie65g"
+    },
+    {
+        "name": "Cyberpunk 2078",
+        "category": "RPG",
+        "price": 59,
+        "id": "Cyb59G"
+    },
+    {
+        "name": "Starfield",
+        "category": "Open WorldRPG",
+        "price": 49,
+        "id": "Sta49G"
+    },
+    {
+        "name": "Elden Ring",
+        "category": "RPG",
+        "price": 69,
+        "id": "Eld69G"
+    },
+    {
+        "name": "God of War: Ragnarok",
+        "category": "Action",
+        "price": 55,
+        "id": "God55E"
+    },
+    {
+        "name": "Hogwarts Legacy",
+        "category": "RPG",
+        "price": 39,
+        "id": "Hog39G"
+    },
+    {
+        "name": "Battlefield 2023",
+        "category": "Action",
+        "price": 45,
+        "id": "Bat45r"
+    },
+    {
+        "name": "Horizon Forbidden West",
+        "category": "RPG",
+        "price": 59,
+        "id": "Hor59G"
+    },
+    {
+        "name": "Gotham Knights",
+        "category": "RPG",
+        "price": 49,
+        "id": "Got49G"
+    },
+    {
+        "name": "Gran Turismo 7",
+        "category": "Racing",
+        "price": 59,
+        "id": "Gra59g"
+    },
+    {
+        "name": "The Legend of Zelda: Breath of the Wild 2",
+        "category": "Action",
+        "price": 59,
+        "id": "The59E"
+    },
+    {
+        "name": "Forza Horizon 5",
+        "category": "Racing",
+        "price": 49,
+        "id": "For49g"
+    },
+    {
+        "name": "Suikoden VI",
+        "category": "RPG",
+        "price": 55,
+        "id": "Sui55G"
+    },
+    {
+        "name": "Resident Evil 9",
+        "category": "Survival Horror",
+        "price": 39,
+        "id": "Res39r"
+    },
+    {
+        "name": "Metroid Prime 4",
+        "category": "Action",
+        "price": 59,
+        "id": "Met59E"
+    },
+    {
+        "name": "Persona 6",
+        "category": "RPG",
+        "price": 49,
+        "id": "Per49G"
+    }
+    
+]
