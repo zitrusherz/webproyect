@@ -1,0 +1,6 @@
+Para hacer todo mas fácil para la visualización de la pagina ejecutar el archivo run_servers.bat. Es libre de leer el código de run_servers y start_servers, no se hace nada malicioso de por medio. 
+
+Al ejecutar el archivo bat debe aparecer una ventana con la siguiente información
+
+  ➜  Local:   http://localhost:5173/
+  ➜  Network: use --host to expose
