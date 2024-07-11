@@ -27,7 +27,7 @@ const GameCard = ({ imageSrc, name, price, category, id }) => {
                     <Card.Text>
                         Price: ${price}
                     </Card.Text>
-                    <Button variant="primary" onClick={addToCart}>Add to Cart</Button>
+                    <Button variant="primary" onClick={addToCart}>Agregar</Button>
                 </Card.Body>
             </Card>
     );

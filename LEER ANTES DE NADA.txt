@@ -4,3 +4,7 @@ Al ejecutar el archivo bat debe aparecer una ventana con la siguiente informaci�
 
   ➜  Local:   http://localhost:5173/
   ➜  Network: use --host to expose
+  ➜  press h + enter to show help
+
+Mas o menos asi, solamente copie http://localhost:5173/ y péguelo en su navegador
+Caso que no quiera arriesgarse a ejecutar los archivos bat y ps1, puede leer el doc.txt y ahí saldrán las instrucciones, pero puede ser que falte alguna dependencia que instalar en su pc, cosa que los comando ejecutables solucionan.

@@ -37,7 +37,7 @@ const Footer = () => {
                             </span>
                             <span>Citric Alexandria</span>
                         </div>
-                        <p className="text-muted">Sem eleifend donec molestie, integer quisque orci aliquam.</p>
+                        <p className="text-muted">Tu compañia de confianza</p>
                     </Col>
                 </Row>
                 <hr className="bg-light" />
